@@ -1,6 +1,6 @@
 this is another test
 this is just another test
 this is only another test
-this is a test on the new feature branch
-this is just a test on the new feature branch
-this is only a test on the new feature branch
+this is a another test on the new feature branch
+this is just another test on the new feature branch
+this is only another test on the new feature branch
