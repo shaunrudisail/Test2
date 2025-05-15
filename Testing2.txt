@@ -1,3 +1,6 @@
 this is a test
 this is just a test
 this is only a test
+this is a test on the new feature branch
+this is just a test on the new feature branch
+this is only a test on the new feature branch
